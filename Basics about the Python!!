@@ -1,0 +1,11 @@
+Documentation
+pipe: installs the pip which can download and install packages
+td/tk and IDLE  development environment
+python test suite (install thee standard library suite)
+py laucher(requires admin privileges)
+Associate files with Python
+Create shortcuts for the installed applications
+add python to environment
+Precompile standard library
+Download debugging symbols
+Download debug binaries
